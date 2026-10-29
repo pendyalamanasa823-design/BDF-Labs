@@ -79,22 +79,25 @@ The following screenshots demonstrate the application endpoints.
 ### 1. Home Page
 Displays the welcome message from the Express server.
 
-![Home Page](screenshots/home.png)
+(screenshots/home.png)
 
 ### 2. About Endpoint
 Displays student information in JSON format.
 
-![About Endpoint](screenshots/about.png)
+(screenshots/about.png)
 
 ### 3. Time Endpoint
 Displays the current date and time.
 
-![Time Endpoint](screenshots/time.png)
+(screenshots/time.png)
 
 ### 4. 404 Not Found
 Displays an error message when an unknown route is requested.
 
-![404 Not Found](screenshots/not-found.png)
+(screenshots/not-found.png)
+
+Deployed Link:
+https://bdf-lab-1-h0by.onrender.com/
 
 ## Learning Outcomes
 
