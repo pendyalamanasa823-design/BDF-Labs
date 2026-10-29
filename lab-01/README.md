@@ -59,4 +59,4 @@ Express logs each completed request and its HTTP status code to the terminal.
 
 Not deployed yet.
 
-See the repository [LICENSE](../LICENSE).
+See the [LICENSE](./LICENSE).
