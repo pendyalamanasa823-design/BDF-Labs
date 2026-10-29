@@ -4,9 +4,9 @@
 Create a basic HTTP server with Node.js and an Express server with routes, JSON responses, a 404 handler, and response-status logging.
 
 ## Student Details
-- Name: [Your Name]
-- Registration number: [Your Registration Number]
-- Section: [Your Section]
+- Name: PENDYALA MANASA.
+- Registration number: 252U1R1191
+- Section: S-19[214]
 
 ## Technologies
 - Node.js
